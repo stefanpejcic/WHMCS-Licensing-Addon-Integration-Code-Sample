@@ -1,9 +1,8 @@
-# WHMCS Licensing Addon - Integration Code Sample
+# WHMCS Licensing Addon - Integration Python Code Sample
 http://www.whmcs.com/addons/licensing-addon/
 
-The following code is a fully working code sample demonstrating how to
-perform license checks using the WHMCS Licensing Addon. It is PHP 4 and
-5 compatable.  Requires the WHMCS Licensing Addon to be used.
+The following code is a fully working **python** code sample demonstrating how to
+perform license checks using the WHMCS Licensing Addon. Requires the WHMCS Licensing Addon to be used.
 
 * @package    WHMCS
 * @author     WHMCS Limited <development@whmcs.com>
